@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:qr_app/models/scan_model.dart';
+import 'package:qr_app/models/models.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 void lauchURL(BuildContext context, ScanModel scan) async {
